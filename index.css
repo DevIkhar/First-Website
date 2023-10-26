@@ -1,0 +1,40 @@
+
+
+.img-cover{
+   background:url("../Sample/assets/background.jpg");
+   background-position: cover;
+   /* height: 100vh; */
+   max-width: 100%;
+   max-height: 100%;
+   background-repeat: no-repeat;
+}
+
+.header{
+    background-position: cover;
+  
+}
+
+.
+/* 
+.para{
+    margin-top: 190px;
+    
+}
+.heading{
+    margin-top: 138px;
+    
+}
+.btn{
+    width: 8rem;
+    margin-left: 207px;
+   margin-top: 281px;
+   border-radius: 50px;
+
+}
+
+.img{
+    max-width: 500px;
+    margin-top: 290px;
+    
+
+}
